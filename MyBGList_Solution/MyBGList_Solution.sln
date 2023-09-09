@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBGList", "MyBGList\MyBGList.csproj", "{B48E297A-7829-4233-9626-4E492587BBC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B48E297A-7829-4233-9626-4E492587BBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48E297A-7829-4233-9626-4E492587BBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48E297A-7829-4233-9626-4E492587BBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48E297A-7829-4233-9626-4E492587BBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DB92B8-90BF-4CF7-A61D-7F3A2634C3D2}
+	EndGlobalSection
+EndGlobal
